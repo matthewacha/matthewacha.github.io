@@ -1,11 +1,12 @@
 body{
 	margin:0px;
 	font-family: Helvetica;
+	background-image:'delish1.jpg';
 }
 
 .navibar{
-	background-color:#4774a2;
-	border-color:#4774a2;
+	background-color:#915de4;
+	border-color:#915de4;
 	height:40px;
 	padding:2px;
 
@@ -24,9 +25,9 @@ body{
 }
 
 .input-forms{
-	margin:80px 550px 400px 575px;
-	background-color:#4774a2;
-	border-color:#4774a2;
+	margin:80px 385px 400px 395px;
+	background-color:#915de4;
+	border-color:#915de4;
 	height:250px;
 	border-radius:4px;
 }
