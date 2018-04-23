@@ -1,7 +1,7 @@
 body{
 	margin:0px;
 	font-family: Helvetica;
-	background-image:'delish1.jpg';
+	background: url("delish3.jpg") no-repeat center;
 }
 
 .navibar{
@@ -13,7 +13,7 @@ body{
 }
 
 .background{
-	background-color:#ffffff;
+	
 }
 
 .h2{

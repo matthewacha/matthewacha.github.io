@@ -1,6 +1,7 @@
 body{
 	margin:0px;
 	font-family: Helvetica;
+	background: url("delish3.jpg") no-repeat center;
 }
 
 /* Navigation bar*/
@@ -52,6 +53,7 @@ li a:hover {
 	height: 100%;
 	flex-direction:row;
 	align-content:space-between;
+	background-color: rgba(255, 255, 255, 0.7);
 }
 
 /*menu*/

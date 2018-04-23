@@ -1,12 +1,13 @@
 body{
 	margin:0px;
 	font-family: Helvetica;
+	background: url("delish2.jpg") no-repeat center;
 }
 
 /* Navigation bar*/
 .navibar{
-	background-color:#4774a2;
-	border-color:#4774a2;
+	background-color:#915de4;
+	border-color:#915de4;
 	height:40px;
 	padding:2px;
 
